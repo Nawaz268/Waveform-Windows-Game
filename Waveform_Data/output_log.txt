@@ -1,0 +1,208 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7270
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.100 seconds
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Nawaz\Desktop\Waveform\Waveform_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.645719 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e20 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.034832 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1007.
+Total: 0.311587 ms (FindLiveObjects: 0.071972 ms CreateObjectMapping: 0.031012 ms MarkObjects: 0.171153 ms  DeleteObjects: 0.037156 ms)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.733192 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1281.
+Total: 0.813930 ms (FindLiveObjects: 0.124049 ms CreateObjectMapping: 0.071387 ms MarkObjects: 0.581922 ms  DeleteObjects: 0.035693 ms)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 149)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 767)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 149)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 767)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 149)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 767)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 149)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 767)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.367529 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 8.381556 ms (FindLiveObjects: 0.057636 ms CreateObjectMapping: 0.067583 ms MarkObjects: 0.447632 ms  DeleteObjects: 7.807825 ms)
+
+restrating
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.515801 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1282.
+Total: 0.327971 ms (FindLiveObjects: 0.045640 ms CreateObjectMapping: 0.020479 ms MarkObjects: 0.216794 ms  DeleteObjects: 0.044763 ms)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+left
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RGBA(1.000, 1.000, 1.000, 1.000)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+"SetDestination" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 149)
+
+"Resume" can only be called on an active agent that has been placed on a NavMesh.
+ 
+(Filename:  Line: 767)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.707805 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 308.
+Total: 8.364002 ms (FindLiveObjects: 0.052662 ms CreateObjectMapping: 0.066120 ms MarkObjects: 0.525748 ms  DeleteObjects: 7.718884 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.733181 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.544766 ms (FindLiveObjects: 0.042130 ms CreateObjectMapping: 0.050322 ms MarkObjects: 0.425689 ms  DeleteObjects: 0.025746 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.013171 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 326.
+Total: 0.579874 ms (FindLiveObjects: 0.044763 ms CreateObjectMapping: 0.050907 ms MarkObjects: 0.453776 ms  DeleteObjects: 0.029549 ms)
+
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at ImageScroller.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.242248 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 305.
+Total: 0.186659 ms (FindLiveObjects: 0.037449 ms CreateObjectMapping: 0.011995 ms MarkObjects: 0.124927 ms  DeleteObjects: 0.011995 ms)
+
